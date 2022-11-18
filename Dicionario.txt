@@ -1,0 +1,32 @@
+*************-Dicionário-*************
+
+-Player: Jogador
+-Pos: Posição
+-Age: Idade
+-Tm: Time
+-G: Partidas
+-GS: Partidas iniciadas
+-MP: Minutos jogados por partida
+-FG: Cestas por partida
+-FGA: Tentativas de cestas por partida
+-FG%: Porcentagem de cestas
+-3P: Cestas de 3 pontos por partida
+-3PA: Tentativas de cestas de 3 pontos por partida
+-3P%: Porcentagem de cestas de 3 pontos
+-2P: Cestas de 2 pontos por partida
+-2PA: Tentativas de cestas de 2 pontos por partida
+-2P% Porcentagem de cestas de 2 pontos
+-eFG%: 
+-FT: Lances livres por partida
+-FTA: Tentativas de lances livres por partida
+-FT%: Porcentagem de lances livres por partida
+-ORB: Rebotes ofensivos por partida
+-DRB: Rebotes defensivos por partida
+-TRB: Total de rebotes por partida
+-AST: Assistências por partida
+-STL: Roubos de bola por partida
+-BLK: Bloqueios por partida
+-TOV: 
+-PF: Faltas por partida
+-PTS: Pontos por jogo
+-Year: Ano

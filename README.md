@@ -1,4 +1,4 @@
-# NBA
+# NBA - Análise
 
 Aqui se encontra uma análise que fiz com os dados da NBA.
 É incrível o quanto de informações podemos retirar de um conjunto de dados,
